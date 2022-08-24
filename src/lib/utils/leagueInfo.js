@@ -224,8 +224,8 @@ export const managers = [
     },
     {
       "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Tim",
-      //"tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "name": "Joey/Ryan",
+      "tookOver": 2022, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "tbd", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/tim.jpeg", // square ratio recommended (no larger than 500x500)
